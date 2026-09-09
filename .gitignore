@@ -10,3 +10,9 @@ __pycache__/
 
 # large data files pushed separately
 本地调试参考-0818/example/mini_sample/*.pt
+
+# originals restored by tools/reassemble.py
+/2026+Huawei+Algorithm+Competition+-+Preliminary+Round+Task+Document-0831-V1.docx
+
+# local push staging
+/.parts-staging/
