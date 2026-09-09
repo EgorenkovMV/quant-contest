@@ -1,0 +1,68 @@
+{
+ "note": "base64-parts for files that exceed the ~70KB proxy body limit; restore with python3 tools/reassemble.py",
+ "files": [
+  {
+   "path": "2026+Huawei+Algorithm+Competition+-+Preliminary+Round+Task+Document-0831-V1.docx",
+   "size": 944055,
+   "sha256": "e1e60c8eee0e7fcf460301e116522c3347aa2c4b1baae965ce55d0cc054eec28",
+   "encoding": "base64-parts",
+   "parts_dir": "parts/task-document",
+   "part_raw": 44000,
+   "n_parts": 22
+  },
+  {
+   "path": "本地调试参考-0818/example/mini_sample/linear.pt",
+   "size": 59140090,
+   "sha256": "9cef09de4e30c2dcef8be85e7d108a4ff026714f2797ada5775992e3d3f6d775",
+   "encoding": "base64-parts",
+   "parts_dir": "parts/linear.pt",
+   "part_raw": 44000,
+   "n_parts": 1345
+  },
+  {
+   "path": "本地调试参考-0818/example/mini_sample/attn.pt",
+   "size": 58721250,
+   "sha256": "e18727fbcb45c90a637aea2c17f4fbd7d0358b39e4c2c7f95e143de542769049",
+   "encoding": "base64-parts",
+   "parts_dir": "parts/attn.pt",
+   "part_raw": 44000,
+   "n_parts": 1335
+  },
+  {
+   "path": ".gitignore",
+   "size": 240,
+   "sha256": "e913e35e50b163dfd2e5fa35f119767a5b4e7c9f1bb27fbd5433a05cffa459bc",
+   "encoding": "utf8"
+  },
+  {
+   "path": "how_to_solve.md",
+   "size": 32397,
+   "sha256": "1f67571c56b105cc4bbf8c5e0ecf1ed3b1184c6ef76ba2c711bc9595d30e732d",
+   "encoding": "utf8"
+  },
+  {
+   "path": "solution-0818.py",
+   "size": 13052,
+   "sha256": "3046de587e1982d2809b5c7efd551cabd05d3093e78aa7c4054639144c2614fb",
+   "encoding": "utf8"
+  },
+  {
+   "path": "本地调试参考-0818/example/环境说明.md",
+   "size": 4733,
+   "sha256": "ed9809de081954298c2454402c8a78430bcedce7eb57a261001e77548a551a82",
+   "encoding": "utf8"
+  },
+  {
+   "path": "本地调试参考-0818/example/self_check.py",
+   "size": 30704,
+   "sha256": "6dc31a967b8e73fe429a6c7b4dc2f00c487dcf681f705219b046bdf9ab56f81e",
+   "encoding": "utf8"
+  },
+  {
+   "path": "本地调试参考-0818/example/solution/solution.py",
+   "size": 13052,
+   "sha256": "3046de587e1982d2809b5c7efd551cabd05d3093e78aa7c4054639144c2614fb",
+   "encoding": "utf8"
+  }
+ ]
+}

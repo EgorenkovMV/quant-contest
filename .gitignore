@@ -1,0 +1,12 @@
+# working solution is intentionally kept out of this repo
+/solution.py
+/solution.zip
+/work/
+
+# session/tooling artifacts
+__pycache__/
+*.pyc
+.qwen-state/
+
+# large data files pushed separately
+本地调试参考-0818/example/mini_sample/*.pt
