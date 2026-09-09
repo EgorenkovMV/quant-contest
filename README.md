@@ -4,7 +4,10 @@ Input files for the 2026 Huawei Algorithm Competition preliminary round
 (NVFP4 -> HiF4 quantization, HiF4 conversion task).
 
 ## Contents
-- `2026+Huawei+...Task+Document-0831-V1.docx` — official task document
+- `task-document.md` — official task document converted to Markdown
+  (figures in `task-document-images/`)
+- `2026+Huawei+...Task+Document-0831-V1.docx` — original official task document
+  (split; restore with the command below)
 - `how_to_solve.md` — solution guide (public score history, recommended architecture)
 - `solution-0818.py` — organizer baseline solution
 - `本地调试参考-0818/` — official local debugging package: `self_check.py`
